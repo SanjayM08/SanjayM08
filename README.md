@@ -57,8 +57,8 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ## Contact
 
   <ul>
-    <li>📧 Email: <a href="mailto:mss681956@gmail.com">mss681956@gmail.com</li>
-    <li>📞 Phone: <a href="tel:+91770-865-3220">7708653220</li>
+    <li>📧 Email:     <a href="mailto:mss681956@gmail.com">mss681956@gmail.com</li>
+    <li>📱 Mobile No: <a href="tel:+91770-865-3220">7708653220</li>
   </ul>
 
 
