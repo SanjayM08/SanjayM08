@@ -18,7 +18,7 @@
 
   <ul>
     <li>🧑‍💻 Javascript, NodeJs , Python, C </li>
-    <li>🚀 Html, CSS, Javascript </li>
+    <li>🚀  Html, CSS, Javascript </li>
     <li>💿 Sql, Excel </li>
     <li>☁️  Linux , AWS , GCP (EC2, VPC, subnet, route table, security group, VPN, Instances, buckets, firewall, gateways, snapshot) </li>
     <li>💻 K8s , Jenkins , Docker , ansible , terraform , shell script </li>
