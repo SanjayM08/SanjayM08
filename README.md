@@ -11,12 +11,12 @@
 ### <h4 align="center">I Am passionate On Technology</h4>
 
   <ul>
-      <li>Software developer, Devops Engineer, & Full Stack Developer</li> <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+      #### <li>Software developer, Devops Engineer, & Full Stack Developer</li>
   </ul>
 
 ## Skills 
 <ul>
-    <li>🧑‍💻 Python, C, Flask, FastAPI </li>
+    <li>🧑‍💻 Python, C, Flask, FastAPI </li>  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
     <li>🚀 Html, CSS, Javascript </li>
     <li>💿 Sql, MongoDB, Postgres, Excel </li>
     <li>☁️  Linux , AWS , GCP (EC2, VPC, subnet, route table, security group, VPN, Instances, buckets, firewall, gateways, snapshot) </li>
