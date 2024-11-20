@@ -4,14 +4,14 @@
 
 ###
 
-### <h3 align="center">I'am SANJAY, an 20 year old Devops Engineer</h3> 
+### <h3 align="center">I'am SANJAY, an 20 year old SQL and Oracle Developer</h3> 
 
 ###
 
 ### <h4 align="center">I Am passionate On Technology</h4>
 
   <ul>
-     <li>Software developer, Devops Engineer, & Full Stack Developer</li>
+     <li>Software developer, PL/SQL Developer, Oracle SQL, Devops Engineer, & Full Stack Developer</li>
   </ul>
 
 ## Skills  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
