@@ -1,4 +1,4 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SANJAY_M~%23+whoami;%E2%9C%93+DevOps+Engineer;%E2%9C%93+Cloud+Engineer+;%E2%9C%93+Web+Developer+;%E2%9C%93+FullStack+Developer+;%E2%9C%93+Blogger+;%E2%9C%93+Youtuber+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Shell+Script+Developer)](https://git.io/typing-svg)
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SANJAY_M~%23+whoami;%E2%9C%93+Oracle+PL/SQL+;%E2%9C%93+SQL+Developer+;%E2%9C%93+DevOps+Engineer;%E2%9C%93+Cloud+Engineer+;%E2%9C%93+Web+Developer+;%E2%9C%93+FullStack+Developer+;%E2%9C%93+Blogger+;%E2%9C%93+Youtuber+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Shell+Script+Developer)](https://git.io/typing-svg)
 
 
 
